@@ -180,6 +180,9 @@ Use parameterized queries from Python to avoid SQL injection.
 
 In the notebook you will find `matplotlib` and `plotly` examples for interactive exploration.
 
+## Dashboard
+<img width="2489" height="1046" alt="Home Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/Data-Analysis-with-Python-SQL/blob/main/Total%20Revenue%20by%20Product%20Category.png" />
+<img width="2461" height="1058" alt="Datiles Dashboard" src="https://github.com/Mohamed-Nofal-DataAnalysis/Data-Analysis-with-Python-SQL/blob/main/Total%20Monthly%20Revenue%20Over%20Time.png" />
 ---
 
 ## Exporting & saving results
